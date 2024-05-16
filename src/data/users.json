@@ -1,0 +1,53 @@
+{
+    "users": [
+      {
+        "name": "Olivia Little",
+        "role": "UI/UX Designer",
+        "location": "Seattle",
+        "language": "English",
+        "color": "orange",
+        "picture": "olivia"
+      },
+      {
+        "name": "Kenneth Harmon",
+        "role": "Visual Designer",
+        "location": "Phoenix",
+        "language": "English",
+        "color": "gray",
+        "picture": "kenneth"
+      },
+      {
+        "name": "Jonas Jacobs",
+        "role": "Information Architect",
+        "location": "San Jose",
+        "language": "Spanish",
+        "color": "red",
+        "picture": "jonas"
+      },
+      {
+        "name": "Julia Kelley",
+        "role": "Product Designer",
+        "location": "Oslo",
+        "language": "Portuguese",
+        "color": "blue",
+        "picture": "julia"
+      },
+      {
+        "name": "Brian Fisher",
+        "role": "Motion Designer",
+        "location": "Austin",
+        "language": "Russian",
+        "color": "lightBlue",
+        "picture": "brian"
+      },
+      {
+        "name": "Joan Gleen",
+        "role": "Designer",
+        "location": "Houston",
+        "language": "English",
+        "color": "green",
+        "picture": "joan"
+      }
+    ]
+  }
+  
